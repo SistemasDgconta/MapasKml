@@ -157,26 +157,6 @@ Just leave the comments and credits when doing so.
 
 
 
-<Placemark>
-  <name>Zona Este</name>
-  <description>
-  - Retiro
-  - San Nicolás
-  - Puerto Madero
-  - San Telmo
-  - Monserrat
-  - Constitución
-  - Recoleta
-  - San Cristobal
-  - Balvanera
-  - Almagro
-  - Boedo
-  - Caballito
-  </description>
-  <Point>
-    <coordinates>-58.39266554749332,-34.60564936021347,0</coordinates>
-  </Point>
-</Placemark>
 
 
 
