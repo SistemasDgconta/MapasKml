@@ -83,37 +83,37 @@ Just leave the comments and credits when doing so.
 
 <Style id="FLORES-PARQUE-CHACABUCO">
 <LineStyle>
-<color>64FFFFFF</color>
+<color>50F06E14</color>
 </LineStyle>
 <PolyStyle>
-<color>64FFFFFF</color>
+<color>50F06E14</color>
 </PolyStyle>
 </Style>
 
 <Style id="LINIERS-MATADEROS-PARQUE-AVELLANEDA">
 <LineStyle>
-<color>64FFFFFF</color>
+<color>50F06E14</color>
 </LineStyle>
 <PolyStyle>
-<color>64FFFFFF</color>
+<color>50F06E14</color>
 </PolyStyle>
 </Style>
 
 <Style id="FLORESTA-MONTE-CASTRO-VELEZ-SARSFIELD-VERSALLES-VILLA-LURO-VILLA-REAL">
 <LineStyle>
-<color>64FFFFFF</color>
+<color>50F06E14</color>
 </LineStyle>
 <PolyStyle>
-<color>64FFFFFF</color>
+<color>50F06E14</color>
 </PolyStyle>
 </Style>
 
 <Style id="VILLA-DEL-PARQUE-VILLA-DEVOTO-VILLA-GRAL.-MITRE-VILLA-SANTA-RITA">
 <LineStyle>
-<color>64FFFFFF</color>
+<color>50F06E14</color>
 </LineStyle>
 <PolyStyle>
-<color>64FFFFFF</color>
+<color>50F06E14</color>
 </PolyStyle>
 </Style>
 
@@ -155,28 +155,7 @@ Just leave the comments and credits when doing so.
 
 
 
-<Placemark>
-  <name>Zona Norte</name>
-  <description>
-  - Coghlan
-  - Saavedra
-  - Villa Urquiza
-  - Villa Pueyrredon
-  - Belgrano
-  - Nuñez
-  - Colegiales
-  - Palermo
-  - Chacarita
-  - Villa Crespo
-  - Paternal
-  - Villa Ortúzar
-  - Agronomía
-  - Parque Chas
-  </description>
-  <Point>
-    <coordinates>-58.45954722222223,-34.57105277777778,0</coordinates>
-  </Point>
-</Placemark>
+
 
 <Placemark>
   <name>Zona Este</name>
@@ -199,45 +178,7 @@ Just leave the comments and credits when doing so.
   </Point>
 </Placemark>
 
-<Placemark>
-  <name>Zona Oeste</name>
-  <description>
-  - Flores
-  - Parque Chacabuco
-  - Parque Avellaneda
-  - Liniers
-  - Mataderos
-  - Villa Real
-  - Monte Castro
-  - Versalles
-  - Floresta
-  - Vélez Sárfield
-  - Villa Luro
-  - Villa Gral. Mitre
-  - Villa Deboto
-  - Villa del Parque
-  - Villa Santa Rita
-  </description>
-  <Point>
-    <coordinates>-58.49186950235506,-34.62727434765458,0</coordinates>
-  </Point>
-</Placemark>
 
-<Placemark>
-  <name>Zona Sur</name>
-  <description>
-  - Boca
-  - Barracas
-  - Parque Patricios
-  - Nueva Pompeya
-  - Villa Soldati
-  - Villa Riachuelo
-  - Villa Lugano
-  </description>
-  <Point>
-    <coordinates>-58.43034962024801,-34.66067931472182,0</coordinates>
-  </Point>
-</Placemark>
 
 <Placemark>
 <styleUrl>#PALERMO</styleUrl>
