@@ -3,36 +3,36 @@
   <Document>
     <name>KMLSOLOCUENCA</name>
     <description/>
-    <Style id="poly-000000-1200-77-normal">
+    <Style id="poly-000000-1200-25-normal">
       <LineStyle>
         <color>ff000000</color>
         <width>1.2</width>
       </LineStyle>
       <PolyStyle>
-        <color>4d000000</color>
+        <color>19000000</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <Style id="poly-000000-1200-77-highlight">
+    <Style id="poly-000000-1200-25-highlight">
       <LineStyle>
         <color>ff000000</color>
         <width>1.8</width>
       </LineStyle>
       <PolyStyle>
-        <color>4d000000</color>
+        <color>19000000</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <StyleMap id="poly-000000-1200-77">
+    <StyleMap id="poly-000000-1200-25">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-000000-1200-77-normal</styleUrl>
+        <styleUrl>#poly-000000-1200-25-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-000000-1200-77-highlight</styleUrl>
+        <styleUrl>#poly-000000-1200-25-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Folder>
@@ -40,7 +40,7 @@
       <Placemark>
         <name/>
         <description><![CDATA[descripción: OK1<br>Name: CUENCAMT<br>description: OK1]]></description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-000000-1200-25</styleUrl>
         <ExtendedData>
           <Data name="descripción">
             <value>OK1</value>
